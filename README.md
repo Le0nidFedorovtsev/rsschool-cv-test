@@ -1,6 +1,6 @@
 #rsschool-cv
-<<<<<<< HEAD
-
+git 
+My New_branch
 hello
 
 gfbgfjhbghjdbgjdbjfgbdjhbgdjhfgjkdbgksg  hgfadsjgf a gadsjgf slkgfrydgujfhydueklb vadue bgvaryudefvlbhakflahb
@@ -29,6 +29,3 @@ gdfgfdsgdfgdfgfsdgdfgdfgdfgfgffdfdffd\
 sdfsdfsdgdfgsdgsdfsdfsdf
 
 123123
-=======
-My New_branch
->>>>>>> new_branch
