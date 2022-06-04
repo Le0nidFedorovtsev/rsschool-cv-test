@@ -1,4 +1,5 @@
 #rsschool-cv
+<<<<<<< HEAD
 
 hello
 
@@ -28,3 +29,6 @@ gdfgfdsgdfgdfgfsdgdfgdfgdfgfgffdfdffd\
 sdfsdfsdgdfgsdgsdfsdfsdf
 
 123123
+=======
+My New_branch
+>>>>>>> new_branch
